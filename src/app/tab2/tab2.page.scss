@@ -2,7 +2,10 @@ ion-label {
   color :rgb(97, 86, 151) ;
 
   h2 {
-    color: rgb(64, 65, 126);
+    color: rgb(41, 44, 3);
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
   }
   h1{
     color: rgb(255,0,0)
@@ -13,4 +16,9 @@ ion-item{
   --background: rgb(248, 218, 85) ;
   --inner-padding-start: 0;
   --padding-start: 0; 
+}
+ion-card{
+  --background: rgb(243, 238, 215) ;
+  --inner-padding-start: 0;
+  --padding-start: 0;
 }
